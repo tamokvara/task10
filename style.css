@@ -1,0 +1,39 @@
+* {
+    box-sizing:border-box;
+}
+img{
+    height: 184.57px;
+    width: 237.95px;
+    margin-left: 100px;
+}
+.hr {
+ width: 370;
+ margin-left: 50px;
+ color: lightgray;
+ 
+}
+.conteiner{
+    
+    width: 500px;
+    height: 800px;
+    border-radius: 30px;
+    margin-top: 50px;
+    padding-top: 20px;
+    margin-left: 600px;
+    font-size: 19px;
+    border: 2px solid lightgray;
+    
+}
+.p1 {
+    margin-left: 50px;
+}
+.h2 {
+    margin-left: 50px;
+ }
+
+.link{
+    float: right;
+    text-decoration: none;
+    margin-right: 70px;
+    color: blue;
+}
